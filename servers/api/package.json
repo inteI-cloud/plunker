@@ -26,6 +26,6 @@
     "mongoose": "3.4.x",
     "lru-cache": "1.1.x",
     "json-gate": "0.8.x",
-    "semver": "1.1.x"
+    "semver": "7.5.2"
   }
 }
