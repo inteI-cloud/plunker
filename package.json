@@ -24,7 +24,7 @@
     "authom": "0.4.x",
     "nconf": "0.5.x",
     "json-schema": "https://github.com/kriszyp/json-schema/tarball/master",
-    "request": "2.9.x",
+    "request": "2.88.2",
     "connect": "1.x",
     "async": "0.1.x",
     "mongoose": "3.x",
