@@ -25,7 +25,7 @@
     "share": "0.5.x",
     "authom": "0.4.x",
     "nconf": "0.5.x",
-    "request": "2.9.x",
+    "request": "2.88.2",
     "connect": "1.x",
     "async": "0.1.x"
   }
